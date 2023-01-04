@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_Hang_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_Hang_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="TenHang" type="xs:string" minOccurs="0" />
+                <xs:element name="DonViTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DonGia" type="xs:int" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_Hang_x0027_>
+    <MaHang>AD001     </MaHang>
+    <TenHang>Giày Adidas</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>4500000</DonGia>
+    <SoLuong>20</SoLuong>
+    <MaNCC>NC003</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>BT001     </MaHang>
+    <TenHang>Giày bitis nike</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>12000000</DonGia>
+    <SoLuong>10</SoLuong>
+    <MaNCC>NC001</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>DO002     </MaHang>
+    <TenHang>Giày dior nike</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>5000000</DonGia>
+    <SoLuong>15</SoLuong>
+    <MaNCC>NC005</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>NK002     </MaHang>
+    <TenHang>Giày Nike</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>11000000</DonGia>
+    <SoLuong>15</SoLuong>
+    <MaNCC>NC002</MaNCC>
+  </_x0027_Hang_x0027_>
+  <_x0027_Hang_x0027_>
+    <MaHang>NK003     </MaHang>
+    <TenHang>Giày test</TenHang>
+    <DonViTinh>Đôi</DonViTinh>
+    <DonGia>500000</DonGia>
+    <SoLuong>20</SoLuong>
+    <MaNCC>NC002     </MaNCC>
+  </_x0027_Hang_x0027_>
+</NewDataSet>

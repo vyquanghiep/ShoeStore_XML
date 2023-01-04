@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_ChamCong_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_ChamCong_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" minOccurs="0" />
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="Ngay" type="xs:int" minOccurs="0" />
+                <xs:element name="Thang" type="xs:int" minOccurs="0" />
+                <xs:element name="Nam" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_ChamCong_x0027_>
+    <Id>1</Id>
+    <MaNhanVien>NV001     </MaNhanVien>
+    <Ngay>6</Ngay>
+    <Thang>9</Thang>
+    <Nam>2021</Nam>
+  </_x0027_ChamCong_x0027_>
+  <_x0027_ChamCong_x0027_>
+    <Id>2</Id>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <Ngay>6</Ngay>
+    <Thang>9</Thang>
+    <Nam>2021</Nam>
+  </_x0027_ChamCong_x0027_>
+  <_x0027_ChamCong_x0027_>
+    <Id>3</Id>
+    <MaNhanVien>NV003     </MaNhanVien>
+    <Ngay>6</Ngay>
+    <Thang>9</Thang>
+    <Nam>2021</Nam>
+  </_x0027_ChamCong_x0027_>
+  <_x0027_ChamCong_x0027_>
+    <Id>4</Id>
+    <MaNhanVien>NV001     </MaNhanVien>
+    <Ngay>7</Ngay>
+    <Thang>9</Thang>
+    <Nam>2021</Nam>
+  </_x0027_ChamCong_x0027_>
+  <_x0027_ChamCong_x0027_>
+    <Id>5</Id>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <Ngay>8</Ngay>
+    <Thang>9</Thang>
+    <Nam>2021</Nam>
+  </_x0027_ChamCong_x0027_>
+  <_x0027_ChamCong_x0027_>
+    <Id>6</Id>
+    <MaNhanVien>NV001     </MaNhanVien>
+    <Ngay>8</Ngay>
+    <Thang>9</Thang>
+    <Nam>2021</Nam>
+  </_x0027_ChamCong_x0027_>
+  
+</NewDataSet>

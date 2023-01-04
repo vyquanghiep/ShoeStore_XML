@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhaCungCap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhaCungCap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNCC" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:int" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+                <xs:element name="MoTa" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC001     </MaNCC>
+    <TenNCC>Giày Bitis Việt</TenNCC>
+    <DiaChi>Vinh Hưng, Huế</DiaChi>
+    <SDT>987654321</SDT>
+    <Email>bitis@gmail.com</Email>
+    <MoTa>Giày đẹp</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC002     </MaNCC>
+    <TenNCC>Giày Nike</TenNCC>
+    <DiaChi>Thủy Xuân, Hòa Vang, HN</DiaChi>
+    <SDT>98524284</SDT>
+    <Email>nike@gmail.com</Email>
+    <MoTa>Giày thể thao</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC003     </MaNCC>
+    <TenNCC>Giày Adidas</TenNCC>
+    <DiaChi>Cầu giấy, HN</DiaChi>
+    <SDT>987654678</SDT>
+    <Email>adidas@gmail.com</Email>
+    <MoTa>Giày đi học</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC004     </MaNCC>
+    <TenNCC>Giày sale</TenNCC>
+    <DiaChi>Hội An, Quảng Nam</DiaChi>
+    <SDT>982347891</SDT>
+    <Email>sale@gmail.com</Email>
+    <MoTa>Giày học sinh sinh viên</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+  <_x0027_NhaCungCap_x0027_>
+    <MaNCC>NC005     </MaNCC>
+    <TenNCC>Dior</TenNCC>
+    <DiaChi>Đà nẵng</DiaChi>
+    <SDT>161651618</SDT>
+    <Email>anns@gmail.com</Email>
+    <MoTa>Giày xịn</MoTa>
+  </_x0027_NhaCungCap_x0027_>
+</NewDataSet>

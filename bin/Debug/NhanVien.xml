@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_NhanVien_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_NhanVien_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="TenNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="NgaySinh" type="xs:string" minOccurs="0" />
+                <xs:element name="DiaChi" type="xs:string" minOccurs="0" />
+                <xs:element name="SDT" type="xs:int" minOccurs="0" />
+                <xs:element name="Email" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV001     </MaNhanVien>
+    <TenNhanVien>Lê Thành Đức</TenNhanVien>
+    <NgaySinh>2001-08-10 12:00:00 AM</NgaySinh>
+    <DiaChi>Quảng Nam</DiaChi>
+    <SDT>163978745</SDT>
+    <Email>Leduc11@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <TenNhanVien>Lưu Văn Đức</TenNhanVien>
+    <NgaySinh>2001-06-01 12:00:00 AM</NgaySinh>
+    <DiaChi>Thừa Thiên Huế</DiaChi>
+    <SDT>987020353</SDT>
+    <Email>LVD@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV003     </MaNhanVien>
+    <TenNhanVien>Vy Quang Hiệp</TenNhanVien>
+    <NgaySinh>1991-08-10 12:00:00 AM</NgaySinh>
+    <DiaChi>Quảng Trị</DiaChi>
+    <SDT>1639787247</SDT>
+    <Email>hiep1234@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV004     </MaNhanVien>
+    <TenNhanVien>Nguyễn Văn Chien</TenNhanVien>
+    <NgaySinh>1991-08-10 12:00:00 AM</NgaySinh>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <SDT>1639787291</SDT>
+    <Email>nhuchien@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+  <_x0027_NhanVien_x0027_>
+    <MaNhanVien>NV005     </MaNhanVien>
+    <TenNhanVien>Nguyễn Văn A</TenNhanVien>
+    <NgaySinh>7/3/2020 12:00:00 AM</NgaySinh>
+    <DiaChi>05 Núi Thành</DiaChi>
+    <SDT>905123567</SDT>
+    <Email>lea@gmail.com</Email>
+  </_x0027_NhanVien_x0027_>
+</NewDataSet>

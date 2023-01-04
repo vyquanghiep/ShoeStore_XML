@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="_x0027_PhieuNhap_x0027_" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="_x0027_PhieuNhap_x0027_">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MaPhieu" type="xs:int" minOccurs="0" />
+                <xs:element name="MaHang" type="xs:string" minOccurs="0" />
+                <xs:element name="MaNhanVien" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuongNhap" type="xs:int" minOccurs="0" />
+                <xs:element name="NgayLapPhieu" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPhieu>1</MaPhieu>
+    <MaHang>BT001     </MaHang>
+    <MaNhanVien>NV001     </MaNhanVien>
+    <SoLuongNhap>20</SoLuongNhap>
+    <NgayLapPhieu>2022-09-05 12:00:00 AM</NgayLapPhieu>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPhieu>2</MaPhieu>
+    <MaHang>NK002     </MaHang>
+    <MaNhanVien>NV001     </MaNhanVien>
+    <SoLuongNhap>100</SoLuongNhap>
+    <NgayLapPhieu>2022-09-05 12:00:00 AM</NgayLapPhieu>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPhieu>3</MaPhieu>
+    <MaHang>AD001     </MaHang>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <SoLuongNhap>30</SoLuongNhap>
+    <NgayLapPhieu>2022-09-05 12:00:00 AM</NgayLapPhieu>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPhieu>4</MaPhieu>
+    <MaHang>DO002     </MaHang>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <SoLuongNhap>30</SoLuongNhap>
+    <NgayLapPhieu>9/5/2022 12:00:00 AM</NgayLapPhieu>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPhieu>5</MaPhieu>
+    <MaHang>AD001     </MaHang>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <SoLuongNhap>30</SoLuongNhap>
+    <NgayLapPhieu>9/5/2022 12:00:00 AM</NgayLapPhieu>
+  </_x0027_PhieuNhap_x0027_>
+  <_x0027_PhieuNhap_x0027_>
+    <MaPhieu>6</MaPhieu>
+    <MaHang>DO002     </MaHang>
+    <MaNhanVien>NV002     </MaNhanVien>
+    <SoLuongNhap>30</SoLuongNhap>
+    <NgayLapPhieu>9/5/2022 12:00:00 AM</NgayLapPhieu>
+  </_x0027_PhieuNhap_x0027_>
+</NewDataSet>
